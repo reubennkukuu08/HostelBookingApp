@@ -19,3 +19,5 @@ In the project directory, you can:
 ### `python manage.py migrate`
 
 ### `python manage.py runserver`
+
+### My first Django project.
